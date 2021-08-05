@@ -9,7 +9,7 @@ gems:
 # If you are hosting it on Github for some project with name 'projectname', then the url and baseurl should look like:
 #url: "http://rafalib.github.io"
 #baseurl: "/"
-url: "https://alfonsnavarro.github.io/web_page/"
+url: "https://alfonsnavarro.github.io"
 enforce_ssl: ""
 baseurl: ""
 
@@ -32,11 +32,11 @@ desc: Sample Description
 nav-links:
     Home: ""
     About: "web_page/pages/about.html"
-    People: "pages/people.html"
-    Research: "pages/research.html"
-    Books: "pages/books.html"
-    Software: "pages/software.html"
-    Teaching: "pages/teaching.html"
+    People: "web_page/pages/people.html"
+    Research: "web_page/pages/research.html"
+    Books: "web_page/pages/books.html"
+    Software: "web_page/pages/software.html"
+    Teaching: "web_page/pages/teaching.html"
 # --- Footer options --- #
 
 # If the values are empty, they are ignored 
