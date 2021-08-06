@@ -31,7 +31,7 @@ desc: Sample Description
 # List of links in the navigation bar
 nav-links:
     Home: ""
-    About: "web_page/pages/about.html"
+    About: "pages/about.html"
     People: "web_page/pages/people.html"
     Research: "web_page/pages/research.html"
     Books: "web_page/pages/books.html"
