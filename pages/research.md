@@ -14,13 +14,9 @@ To see a list with all of Alfons Navarro's papers you can visit
 Alfons's ORCID [0000-0001-6071-0926](https://orcid.org/0000-0001-6071-0926)
 
 Below are links to papers describing some of our best known work.
-### Exosomes and non-coding RNAs
 
 
-###  MicroRNAs
-
-
-### Epigenetics
+### MicroRNAs
 
 
 ### LncRNAs
@@ -29,9 +25,13 @@ Below are links to papers describing some of our best known work.
 ### PiwiRNAs
 
 
+### Exosomes and non-coding RNAs
+
+
 ### Pharmacogenomics
 
-### Others
+
+### Reviews and editorials
 
 
 
