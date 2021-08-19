@@ -18,6 +18,19 @@ Below are links to papers describing some of our best known work.
 
 ### MicroRNAs
 
+miR-34a as a prognostic marker of relapse in surgically resected non-small-cell lung cancer
+E Gallardo, A Navarro, N Vinolas, RM Marrades, T Diaz, B Gel, A Quera, ...
+Carcinogenesis 30 (11), 1903-1909.
+
+Overlapping expression of microRNAs in human embryonic colon and colorectal cancer
+M Monzo, A Navarro, E Bandres, R Artells, I Moreno, B Gel, R Ibeas, ...
+Cell research 18 (8), 823-833.
+
+MicroRNA expression profiling in classic Hodgkin lymphoma
+A Navarro, A Gaya, A Martinez, A Urbano-Ispizua, A Pons, O Balagué, ...
+Blood, The Journal of the American Society of Hematology 111 (5), 2825-2832.
+
+
 
 ### LncRNAs
 
@@ -26,6 +39,8 @@ Below are links to papers describing some of our best known work.
 
 
 ### Exosomes and non-coding RNAs
+
+
 
 
 ### Pharmacogenomics
