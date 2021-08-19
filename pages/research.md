@@ -72,7 +72,7 @@ Clinical and Translational Oncology 10 (10), 628-637.
 
 ### Editorials
 
-[Clinic and therapeutic potential of non-coding RNAs in cancer] (https://tcr.amegroups.com/article/view/48756)
+[Clinic and therapeutic potential of non-coding RNAs in cancer](https://tcr.amegroups.com/article/view/48756)
 JJ Castellano, M Diaz-Beya, A Navarro
 Transl Cancer Res 10 (6). 
 
