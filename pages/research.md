@@ -17,7 +17,7 @@ Alfons's ORCID [0000-0001-6071-0926](https://orcid.org/0000-0001-6071-0926)
 Below we have included selected papers describing some of our best known work.
 
 
-### MicroRNAs
+#### MicroRNAs
 
 -miR-34a as a prognostic marker of relapse in surgically resected non-small-cell lung cancer.
 E Gallardo, A Navarro, N Vinolas, RM Marrades, T Diaz, B Gel, A Quera, ...
@@ -43,13 +43,13 @@ Leukemia 27 (3), 595-603.
 M Diaz-Beya, S Brunet, J Nomdedeu, R Tejero, T Diaz, M Pratcorona, ...
 Leukemia 28 (4), 804-812
 
-### LncRNAs
+#### LncRNAs
 
 -LincRNA-p21 impacts prognosis in resected non–small cell lung Cancer patients through angiogenesis regulation
 JJ Castellano, A Navarro, N Viñolas, RM Marrades, J Moises, A Cordeiro, ...
 Journal of Thoracic Oncology 11 (12), 2173-2182.
 
-### PiwiRNAs
+#### PiwiRNAs
 
 -PiwiRNA-651 as marker of treatment response and survival in classical Hodgkin lymphoma
 A Cordeiro, A Navarro, A Gaya, M Díaz-Beyá, B Gonzalez-Farré, ...
@@ -59,7 +59,7 @@ Oncotarget 7 (29), 46002-46013.
 A Navarro, R Tejero, N Viñolas, A Cordeiro, RM Marrades, D Fuster, ...
 Oncotarget 6 (31), 31544.
 
-### CircRNAs
+#### CircRNAs
 
 -[Role of the epithelial-mesenchymal transition-related circular RNA, circ-10720, in non-small-cell lung cancer.](https://pubmed.ncbi.nlm.nih.gov/34012794/)
 J Martín, JJ Castellano, RM Marrades, J Canals, N Viñolas, T Díaz, ...
@@ -67,7 +67,7 @@ Translational Lung Cancer Research 10 (4), 1804
 
 
 
-### Extracellular vesicles (exosomes) and non-coding RNAs
+#### Extracellular vesicles (exosomes) and non-coding RNAs
 
 -Extracellular vesicle lincRNA-p21 expression in tumor-draining pulmonary vein defines prognosis in NSCLC and modulates endothelial cell behavior
 JJ Castellano, RM Marrades, L Molins, N Viñolas, J Moises, J Canals, ...
@@ -78,7 +78,7 @@ A Navarro, L Molins, RM Marrades, J Moises, N Viñolas, S Morales, ...
 Cancers 11 (2), 249
 
 
-### Pharmacogenomics
+#### Pharmacogenomics
 
 -Impact of MiRSNPs on survival and progression in patients with multiple myeloma undergoing autologous stem cell transplantation.
 CF de Larrea, A Navarro, R Tejero, N Tovar, T Díaz, MT Cibeira, L Rosinol, ...
@@ -104,17 +104,17 @@ International Journal of Radiation Oncology* Biology* Physics 66 (4), 1022-1030.
 M Granell, A Urbano-Ispizua, A Pons, JI Aróstegui, B Gel, A Navarro, ...
 Blood, The Journal of the American Society of Hematology 112 (10), 4337-4342
 
-### Reviews
+#### Reviews
 
--[Epigenetic regulation mechanisms of microRNA expression](https://pubmed.ncbi.nlm.nih.gov/29161231/)
+-[Epigenetic regulation mechanisms of microRNA expression.](https://pubmed.ncbi.nlm.nih.gov/29161231/)
 S Morales, M Monzo, A Navarro.
 Biomolecular concepts 8 (5-6), 203-212.
 
--[Non-coding RNAs in Hodgkin lymphoma](https://pubmed.ncbi.nlm.nih.gov/28555062/)
+-[Non-coding RNAs in Hodgkin lymphoma.](https://pubmed.ncbi.nlm.nih.gov/28555062/)
 A Cordeiro, M Monzó, A Navarro.
 International journal of molecular sciences 18 (6), 1154.
 
--[MIR135A1 (microRNA 135a-1)](http://atlasgeneticsoncology.org/Genes/GC_MIR135A1.html)
+-[MIR135A1 (microRNA 135a-1).](http://atlasgeneticsoncology.org/Genes/GC_MIR135A1.html)
 A Navarro, M Díaz-Beyá, M Monzó.
 Atlas of Genetics and Cytogenetics in Oncology and Haematology.
 
@@ -126,14 +126,14 @@ Yonsei medical journal 51 (5), 622-632.
 M Monzo, A Navarro, G Ferrer, R Artells.
 Clinical and Translational Oncology 10 (10), 628-637.
 
-### Editorials
+#### Editorials
 
--[Clinic and therapeutic potential of non-coding RNAs in cancer](https://tcr.amegroups.com/article/view/48756)
+-[Clinic and therapeutic potential of non-coding RNAs in cancer.](https://tcr.amegroups.com/article/view/48756)
 JJ Castellano, M Diaz-Beya, A Navarro.
 Transl Cancer Res 10 (6). 
 
 
--[Can long non-coding RNAs reveal the hidden code of lung cancer?](https://ncri.amegroups.com/article/view/5871/html)
+-[Can long non-coding RNAs reveal the hidden code of lung cancer?.](https://ncri.amegroups.com/article/view/5871/html)
 JJ Castellano, A Navarro.
 Non-coding RNA Investigation, 2020, vol. 4, num. 6.
 
