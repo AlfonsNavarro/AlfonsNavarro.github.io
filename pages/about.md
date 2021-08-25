@@ -7,7 +7,7 @@ title: About
 
 Dr. Alfons Navarro is a molecular biologist with a longstanding interest in the study of the role of non-coding RNAs as prognostic biomarkers in cancer. 
 
-Dr. Navarro has been working since 2012 as a Professor at the Faculty of Medicine and Health Sciences of the University of Barcelona. In 2008 he obtained his PhD from the University of Barcelona. In 2010 he did a short postdoctoral stage at the Comprehensive Cancer Center of the Ohio State University under the direction of Dr. Carlo M. Croce. In 2016, he obtained a Master's degree in Bioinformatics and Biostatistics from the Universitat Oberta de Catalunya. 
+Dr. Navarro has been working since 2012 as a Professor at the Faculty of Medicine and Health Sciences of the University of Barcelona. In 2008 he obtained his PhD from the University of Barcelona under the mentoring of Dr. Mariano Monzó.  In 2010 he did a short postdoctoral stage at the Comprehensive Cancer Center of the Ohio State University under the direction of Dr. Carlo M. Croce. In 2016, he obtained a Master's degree in Bioinformatics and Biostatistics from the Universitat Oberta de Catalunya. 
 
 He is author of more than 70 scientific articles (cited more than 4490 times, H-index: 34) and several book chapters. He has participated in more than 14 funded projects, has been editor in several journals and since 2012, he works as Professor of Human Anatomy and Embryology at the University of Barcelona. 
 
