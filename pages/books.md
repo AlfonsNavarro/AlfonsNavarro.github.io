@@ -9,8 +9,8 @@ This book tries to summarize with laboratory protocols, bioinformatic pipelines 
 
 Our group has contributed with chapter 20 which focuses in the analysis of lncRNAs in extracellular vesicles.
 
-![image](assets/img/lncRNA_book_Springer.png)
+![book cover](http://assets/img/lncRNA_book_Springer.png)
 
-You can buy a hard copy of the book [here]("https://www.springer.com/gp/book/9781071615805")
+You can buy a hard copy of the book [here]("www.springer.com/gp/book/9781071615805")
 
 
