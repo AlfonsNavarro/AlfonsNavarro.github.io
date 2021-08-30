@@ -34,7 +34,7 @@ nav-links:
     About: "pages/about.html"
     #People: "web_page/pages/people.html"
     Research: "pages/research.html"
-    Books: "web_page/pages/books.html"
+    Books: "/pages/books.html"
     #Software: "web_page/pages/software.html"
     #Teaching: "web_page/pages/teaching.html"
 # --- Footer options --- #
