@@ -5,7 +5,15 @@ title: Research
 
 ## Introduction
 
-....
+During my career I have been mainly focused in the study of cancer biomarkers to identify patients at high risk of relapse after surgery and chemoresistance patients. To identify this patients, first, I dealed with pharmacogenomics, the study of polymorphisms and mutations in genes related with tretment metabolism and DNA repair occupied my first years of research. 
+
+After that stage, we begin to study the role of microRNAs in Cancer and recently I have extended my studies to other groups of non-coding RNAs, including lncRNAs, circRNAs or piwiRNAs. 
+
+I have worked in several tumor models including solid and hematologic malignancies but now I mainly focused in the study of non-coding RNAs in lung cancer.
+
+Recently, I have also begin to work with liquid biopsies and extracellular vesicles (exosomes) and also I have begin to work with embryonic and lung cancer patients derived organoids.
+
+**Interests:** noncoding RNAs; microRNAs; piwiRNAs; lncRNAs; circularRNAs; extracellular vesicles; exosomes; biomarkers; lung cancer; colorectal cancer; lymphoma; leukemia; Hodgkin lymphoma; Multiple myeloma; organoids;
 
 ## Publications
 
@@ -15,6 +23,56 @@ To see a list with all of Alfons Navarro's papers you can visit
 Alfons's ORCID [0000-0001-6071-0926](https://orcid.org/0000-0001-6071-0926)
 
 Below we have included selected papers describing some of our best known work.
+
+
+#### Reviews
+
+-[Epigenetic regulation mechanisms of microRNA expression.](https://pubmed.ncbi.nlm.nih.gov/29161231/)
+S Morales, M Monzo, A Navarro.
+Biomolecular concepts 8 (5-6), 203-212.
+
+-[Non-coding RNAs in Hodgkin lymphoma.](https://pubmed.ncbi.nlm.nih.gov/28555062/)
+A Cordeiro, M Monzó, A Navarro.
+International journal of molecular sciences 18 (6), 1154.
+
+-[MIR135A1 (microRNA 135a-1).](http://atlasgeneticsoncology.org/Genes/GC_MIR135A1.html)
+A Navarro, M Díaz-Beyá, M Monzó.
+Atlas of Genetics and Cytogenetics in Oncology and Haematology.
+
+-[MicroRNAs in human embryonic and cancer stem cells.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2908867/)
+A Navarro, M Monzó.
+Yonsei medical journal 51 (5), 622-632.
+
+-[Pharmacogenomics: a tool for improving cancer chemotherapy.](https://pubmed.ncbi.nlm.nih.gov/18940743/)
+M Monzo, A Navarro, G Ferrer, R Artells.
+Clinical and Translational Oncology 10 (10), 628-637.
+
+#### Editorials
+
+-[Clinic and therapeutic potential of non-coding RNAs in cancer.](https://tcr.amegroups.com/article/view/48756)
+JJ Castellano, M Diaz-Beya, A Navarro.
+Transl Cancer Res 10 (6). 
+
+
+-[Can long non-coding RNAs reveal the hidden code of lung cancer?.](https://ncri.amegroups.com/article/view/5871/html)
+JJ Castellano, A Navarro.
+Non-coding RNA Investigation, 2020, vol. 4, num. 6.
+
+-[Twist1 activated circRNA-10720 is a new player in hepatocellular carcinoma metastasis.](https://tcr.amegroups.com/article/view/26206/html)
+A Navarro.
+Transl Cancer Res 8 (S2), S135-S140.
+
+-[Argonaute-crosslinking and immunoprecipitation deciphers the liver miR-122 targetome.](https://ncri.amegroups.com/article/view/3924/4567)
+A Navarro.
+Non-coding RNA Investig 1, 23.
+
+-[Genotypes and chemotherapy toxicity.](https://doi.org/10.2217/14622416.10.3.335)
+M Monzo, A Navarro.
+Pharmacogenomics vol. 10, num. 3. 
+
+-[Genetic Predictors of Leukocytopenia severity.](https://doi.org/10.2217/14622416.10.3.335)
+M Monzo, A Navarro.
+Pharmacogenomics vol. 10, num. 3. 
 
 
 #### MicroRNAs
@@ -104,54 +162,7 @@ International Journal of Radiation Oncology* Biology* Physics 66 (4), 1022-1030.
 M Granell, A Urbano-Ispizua, A Pons, JI Aróstegui, B Gel, A Navarro, ...
 Blood, The Journal of the American Society of Hematology 112 (10), 4337-4342
 
-#### Reviews
 
--[Epigenetic regulation mechanisms of microRNA expression.](https://pubmed.ncbi.nlm.nih.gov/29161231/)
-S Morales, M Monzo, A Navarro.
-Biomolecular concepts 8 (5-6), 203-212.
-
--[Non-coding RNAs in Hodgkin lymphoma.](https://pubmed.ncbi.nlm.nih.gov/28555062/)
-A Cordeiro, M Monzó, A Navarro.
-International journal of molecular sciences 18 (6), 1154.
-
--[MIR135A1 (microRNA 135a-1).](http://atlasgeneticsoncology.org/Genes/GC_MIR135A1.html)
-A Navarro, M Díaz-Beyá, M Monzó.
-Atlas of Genetics and Cytogenetics in Oncology and Haematology.
-
--[MicroRNAs in human embryonic and cancer stem cells.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2908867/)
-A Navarro, M Monzó.
-Yonsei medical journal 51 (5), 622-632.
-
--[Pharmacogenomics: a tool for improving cancer chemotherapy.](https://pubmed.ncbi.nlm.nih.gov/18940743/)
-M Monzo, A Navarro, G Ferrer, R Artells.
-Clinical and Translational Oncology 10 (10), 628-637.
-
-#### Editorials
-
--[Clinic and therapeutic potential of non-coding RNAs in cancer.](https://tcr.amegroups.com/article/view/48756)
-JJ Castellano, M Diaz-Beya, A Navarro.
-Transl Cancer Res 10 (6). 
-
-
--[Can long non-coding RNAs reveal the hidden code of lung cancer?.](https://ncri.amegroups.com/article/view/5871/html)
-JJ Castellano, A Navarro.
-Non-coding RNA Investigation, 2020, vol. 4, num. 6.
-
--[Twist1 activated circRNA-10720 is a new player in hepatocellular carcinoma metastasis.](https://tcr.amegroups.com/article/view/26206/html)
-A Navarro.
-Transl Cancer Res 8 (S2), S135-S140.
-
--[Argonaute-crosslinking and immunoprecipitation deciphers the liver miR-122 targetome.](https://ncri.amegroups.com/article/view/3924/4567)
-A Navarro.
-Non-coding RNA Investig 1, 23.
-
--[Genotypes and chemotherapy toxicity.](https://doi.org/10.2217/14622416.10.3.335)
-M Monzo, A Navarro.
-Pharmacogenomics vol. 10, num. 3. 
-
--[Genetic Predictors of Leukocytopenia severity.](https://doi.org/10.2217/14622416.10.3.335)
-M Monzo, A Navarro.
-Pharmacogenomics vol. 10, num. 3. 
 
 
 
