@@ -25,7 +25,7 @@ targetome.
 
 You can download a free copy of the book [here]()
 
-![book cover]({{site.base.url}}/assets/img/Cancers_Special_issue_book_2.png)
+![book cover]({{site.base.url}}/assets/img/Cancers_Special_issue_book_2.png){:height="150px" width="50px"}
 
 ## The Role of ncRNAs in Solid Tumors Prognosis: from Laboratory to Clinical Utility
 
@@ -33,4 +33,5 @@ In this book produced based on the aportations to our Research Topic, we would l
 
 You can download a free copy of the book [here](https://www.frontiersin.org/research-topics/10686/the-role-of-ncrnas-in-solid-tumors-prognosis-from-laboratory-to-clinical-utility)
 
-![book cover]({{site.base.url}}/assets/img/Frontiers_book_2.png)
+![book cover]({{site.base.url}}/assets/img/Frontiers_book_2.png){:height="50%" width="50%"}
+
