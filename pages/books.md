@@ -27,11 +27,11 @@ You can download a free copy of the book [here]()
 
 ![book cover]({{site.base.url}}/assets/img/Cancers_Special_issue_book.png)
 
-## THE ROLE OF ncRNAs IN SOLID TUMORS PROGNOSIS: FROM LABORATORY TO CLINICAL UTILITY
+## The Role of ncRNAs in Solid Tumors Prognosis: from Laboratory to Clinical Utility
 
 In this book produced based on the aportations to our Research Topic, we would like to present the recent advances on the roles of ncRNAs on tumorigenesis, metastasis, chemoresistance, radioresistance as well as their potential clinical applications in solid cancers. 
 
 You can download a free copy of the book [here](https://www.frontiersin.org/research-topics/10686/the-role-of-ncrnas-in-solid-tumors-prognosis-from-laboratory-to-clinical-utility)
 
-![book cover]({{site.base.url}}/assets/img/Frontiers_book.png)
+![book cover]({{site.base.url}}/assets/img/Frontiers_book.png =10x10)
 
