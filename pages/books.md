@@ -11,7 +11,7 @@ Our group has contributed with chapter 20, which focuses in the analysis of lncR
 
 You can buy a hard copy of the book [here](https://www.springer.com/gp/book/9781071615805)
 
-![book cover]({{site.base.url}}/assets/img/lncRNA_book_Springer.png)
+![book cover]({{site.base.url}}/assets/img/lncRNA_book_Springer.png){:height="40%" width="40%"}
 
 ## Role of miRNAs in Cancer—Analysis of Their Targetome
 
@@ -25,7 +25,7 @@ targetome.
 
 You can download a free copy of the book [here]()
 
-![book cover]({{site.base.url}}/assets/img/Cancers_Special_issue_book_2.png){:height="150px" width="50px"}
+![book cover]({{site.base.url}}/assets/img/Cancers_Special_issue_book_2.png){:height="40%" width="40%"}
 
 ## The Role of ncRNAs in Solid Tumors Prognosis: from Laboratory to Clinical Utility
 
@@ -33,5 +33,5 @@ In this book produced based on the aportations to our Research Topic, we would l
 
 You can download a free copy of the book [here](https://www.frontiersin.org/research-topics/10686/the-role-of-ncrnas-in-solid-tumors-prognosis-from-laboratory-to-clinical-utility)
 
-![book cover]({{site.base.url}}/assets/img/Frontiers_book_2.png){:height="50%" width="50%"}
+![book cover]({{site.base.url}}/assets/img/Frontiers_book_2.png){:height="40%" width="40%"}
 
