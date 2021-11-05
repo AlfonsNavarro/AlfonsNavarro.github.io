@@ -5,13 +5,14 @@ title: Research
 
 ## Introduction
 
-During my career I have been mainly focused in the study of cancer biomarkers to identify patients at high risk of relapse after surgery and chemoresistance patients. To identify this patients, first, I dealed with pharmacogenomics, the study of polymorphisms and mutations in genes related with tretment metabolism and DNA repair occupied my first years of research. 
+During my scientific career I have mainly focused on the study of prognostic biomarkers to identify cancer patients at high risk of relapse after surgery and/or chemoresistant patients. To identify these patients, I first focused on pharmacogenomics. The study of polymorphisms and mutations in genes related to treatment metabolism and DNA repair occupied my first years of research. 
 
-After that stage, we begin to study the role of microRNAs in Cancer and recently I have extended my studies to other groups of non-coding RNAs, including lncRNAs, circRNAs or piwiRNAs. 
+After that stage, we started to study the role of microRNAs in Cancer, and recently I have extended my studies to other groups of non-coding RNAs, including lncRNAs, circRNAs or piwiRNAs. 
 
-I have worked in several tumor models including solid and hematologic malignancies but now I mainly focused in the study of non-coding RNAs in lung cancer.
+I have worked on several tumor models, including solid and hematological malignancies, but now I am centered on the study of non-coding RNAs in lung cancer.
 
-Recently, I have also begin to work with liquid biopsies and extracellular vesicles (exosomes) and also I have begin to work with embryonic and lung cancer patients derived organoids.
+I am also working with liquid biopsies and extracellular vesicles (exosomes), and recently I have begin to study embryonic and patient-derived lung cancer organoids.
+
 
 **Interests:** noncoding RNAs; microRNAs; piwiRNAs; lncRNAs; circularRNAs; extracellular vesicles; exosomes; biomarkers; lung cancer; colorectal cancer; lymphoma; leukemia; Hodgkin lymphoma; Multiple myeloma; organoids;
 
@@ -48,6 +49,10 @@ M Monzo, A Navarro, G Ferrer, R Artells.
 Clinical and Translational Oncology 10 (10), 628-637.
 
 #### Editorials
+
+-[Deciphering miRNA–Target Relationships to Understand miRNA-Mediated Carcinogenesis.](https://www.mdpi.com/2072-6694/13/10/2415)
+A Navarro.
+Cancers 2021, 13(10), 2415.
 
 -[Clinic and therapeutic potential of non-coding RNAs in cancer.](https://tcr.amegroups.com/article/view/48756)
 JJ Castellano, M Diaz-Beya, A Navarro.
