@@ -54,6 +54,10 @@ Clinical and Translational Oncology 10 (10), 628-637.
 A Navarro.
 Cancers 2021, 13(10), 2415.
 
+-[Editorial: The Role of ncRNAs in Solid Tumors Prognosis: From Laboratory to Clinical Utility..](https://www.frontiersin.org/articles/10.3389/fonc.2020.631316/full)
+Zhou J-G, Huang Z, Slaby O and Navarro A 
+Front. Oncol. 2021, 10:631316. 
+
 -[Clinic and therapeutic potential of non-coding RNAs in cancer.](https://tcr.amegroups.com/article/view/48756)
 JJ Castellano, M Diaz-Beya, A Navarro.
 Transl Cancer Res 10 (6). 
