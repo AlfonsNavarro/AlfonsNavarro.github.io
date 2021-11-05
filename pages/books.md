@@ -27,7 +27,7 @@ You can download a free copy of the book [here]()
 
 ![book cover]({{site.base.url}}/assets/img/Cancers_Special_issue_book.png)
 
-## Role of miRNAs in Cancer—Analysis of Their Targetome
+## THE ROLE OF ncRNAs IN SOLID TUMORS PROGNOSIS: FROM LABORATORY TO CLINICAL UTILITY
 
 In this book produced based on the aportations to our Research Topic, we would like to present the recent advances on the roles of ncRNAs on tumorigenesis, metastasis, chemoresistance, radioresistance as well as their potential clinical applications in solid cancers. 
 
