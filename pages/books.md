@@ -23,7 +23,7 @@ microRNAs have not yet been elucidated. In this book, we add new information
 related to the functions of microRNAs in various tumors and their associated
 targetome.
 
-You can download a free copy of the book [here]()
+You can download a free copy of the book [here](https://www.mdpi.com/books/pdfview/book/5202)
 
 ![book cover]({{site.base.url}}/assets/img/Cancers_Special_issue_book_2.png){:height="30%" width="30%"}
 
