@@ -37,6 +37,8 @@ nav-links:
     Books: "pages/books.html"
     #Software: "web_page/pages/software.html"
     #Teaching: "web_page/pages/teaching.html"
+    #News: "pages/news.html"
+    #Grants: "pages/grants.html"
 # --- Footer options --- #
 
 # If the values are empty, they are ignored 
@@ -58,7 +60,7 @@ pretty-url: "bchetty.com"
 disqus: 
 
 # Google Analytics Settings
-google_analytics: UA-151564720-1
+google_analytics: G-VWS8TJRL9Q
 
 # Set these options as you need (For more information, check Jekyll's site)
 timezone: "Spain"
