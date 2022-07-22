@@ -35,6 +35,7 @@ nav-links:
     #People: "pages/people.html"
     Research: "pages/research.html"
     Books: "pages/books.html"
+    Lab: "lab"
     #Software: "web_page/pages/software.html"
     #Teaching: "web_page/pages/teaching.html"
     #News: "pages/news.html"
